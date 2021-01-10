@@ -1,0 +1,32 @@
+/* Start Table */
+
+table {
+    width: 900px;
+    height: 1000px;
+    color: white;  
+    text-align: center;
+    margin-left: 5%;
+}
+
+th {
+    background-color: white;
+    color: grey;
+    padding-bottom: 10px;
+}
+
+tr {
+    background-color: white;
+    color: rgb(207, 170,98);
+}
+
+.tr_style {
+    background-color: rgb(207, 170,98);
+    color: white;
+}
+
+.tr_style_closed {
+    background-color:rgb(180, 180, 180);
+    color:white;
+}
+
+/* End Table */

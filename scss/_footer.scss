@@ -1,0 +1,45 @@
+/* Start Footer */
+
+footer {
+    margin-top: 2%;
+    width: 100%;
+    height: 300px;
+    background-color: rgb(33, 33, 33);
+}
+
+.footer_logo {
+    margin-top: 10%;
+    width: 350px;
+    height: 75px;
+}
+
+.footer_menu {
+    width: 25%;
+    height: 200px;
+    padding: 5px;
+    font-family: 'Titillium Web', sans-serif;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.footer_menu ul li {
+    list-style: none;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.footer_menu ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer_menu ul li a:hover {
+    text-decoration: none;
+    color: rgb(207, 170,98);
+  }
+
+.footer_contactus {
+    color: white;
+    margin-top: 10%;
+}
+

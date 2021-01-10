@@ -1,0 +1,152 @@
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Aleo|Roboto|Roboto+Slab');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700;900&display=swap');
+
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} 
+
+
+/*
+header {
+    width: 100%;
+    height: 75px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.4);
+    padding-top: 0%;
+    position: fixed;
+    background-color: rgb(33, 33, 33);
+    z-index: 9999
+}
+*/
+
+.logo {
+      margin-top: 5px;
+      float: left;
+      width: 200px;
+      height: 75px;
+}
+
+/* Menu */
+
+.nav-link {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar-nav ul li a:hover {
+    text-decoration: none;
+    color: rgb(207, 170,98);
+  }
+
+
+/* Main */
+
+.main {
+    padding-top: 10%;
+    margin-left: 20%;
+    margin-right: 25%;
+    width: 1000px;
+    height: 800px;
+}
+
+.mainHome {
+    padding-top: 75px;
+    width: 100%;
+}
+
+.mainHistory {
+    padding-top: 5%;
+}
+
+h1 {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h5 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+} 
+/* Start History */
+
+aside {
+    margin: 5%;
+}
+
+/* End History */
+          
+
+
+/* Start Blackline */
+
+#blackline {
+    margin-top: 5%;
+    width: 100%;
+    height: 300px;
+    background-color:  rgb(33, 33, 33);
+    color: white;
+}
+/* End Blackline */
+
+/* Start Coach */
+
+#sectionCoaches {
+    margin-top: 100px;
+    grid-area: coaches;
+    height: 100%;
+}
+
+.coachMarcos {
+    width: 300px;
+    height: 500px;
+}
+
+.coach {
+    width: 300px;
+    height: 500px;
+}
+
+/* End Coach */
+/* Start Form */
+.map {
+    display: inline;
+    float: left;
+}
+
+fieldset {
+    width: 30%;
+    display: inline;
+    float: left;
+    border: none;
+}
+
+.map {
+    display: inline;
+    float: left;
+    margin-right: 5%;
+}
+
+.controls {
+    width: 100%;
+    padding: 5px;
+    font-family: 'calibri';
+    font-size: 18px;
+    border: 0,2px;
+}
+
+.button {
+    background-color: orange;
+    border-color: orange;
+    color: white;
+    width: 125px;
+    height: 35px;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+/* End Form */
+
+

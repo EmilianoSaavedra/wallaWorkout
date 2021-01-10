@@ -1,0 +1,67 @@
+/* Start Media */
+
+@media (min-width: 769px) {
+}
+
+@media (max-width: 768px) {
+    .footer_menu {
+        display: none;
+    }
+    .mainTeam {
+        margin-top: 10%;
+    }
+    .header_screen {
+        display: none;
+    }
+    .footer_contactus {
+        display: none;
+    }
+    .orangebg {
+        height: 600px;
+    }
+
+}
+
+@media (min-width: 993px) {
+    .header_responsive {
+        display: none;
+    }
+    .table_responsive {
+        display: none;
+    }
+}
+
+@media (max-width: 992px) {
+    .header_screen {
+        display: none;
+    }
+    .footer_menu {
+        display: none;
+    }
+    .footer_logo {
+        width: 100%;
+        margin-top: 5%;
+    }
+    .mainHome {
+        padding-top: 0px;
+    }
+    .footer_contactus {
+        display: none;
+    }
+    .table_desktop {
+        display: none;
+    }
+
+    #circle {
+        margin-left: 70%;
+    }
+}
+
+@media (max-width: 1079px) {
+    .footer_logo {
+        margin-left: 0%;;
+    }
+    .footer_menu {
+        margin-left: 10%;;
+    }
+}
